@@ -10,3 +10,7 @@ Learned Fixed & Variable Window approaches
 🚀 Extra: Kadane’s Algorithm (Max Subarray Sum)
 17 Feb 2025 - DSA Progress
 🔹 Topics Covered: Linked List - Solved Important Questions Sliding Window - Revised & Practiced More Questions
+## 18 Feb 2025 - DSA Progress
+🔹Covered Stacks and its implementation
+🔹Did practice problem on leetcode
+
