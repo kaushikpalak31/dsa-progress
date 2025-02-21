@@ -13,4 +13,9 @@ Learned Fixed & Variable Window approaches
 ## 18 Feb 2025 - DSA Progress
 🔹Covered Stacks and its implementation
 🔹Did practice problem on leetcode
+## 19 Feb 2025 
+✅Revised Linked List
+🔹Did Stack problems on leetcode
+## 20 Feb 2025
+🔹Continued Stacks only
 
