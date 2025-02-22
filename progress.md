@@ -18,4 +18,6 @@ Learned Fixed & Variable Window approaches
 🔹Did Stack problems on leetcode
 ## 20 Feb 2025
 🔹Continued Stacks only
+## 21 Feb 2025
+🔹Covered Linked List questions(Striver Sheet)
 
